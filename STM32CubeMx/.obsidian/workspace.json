@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всё про процы и STM-ки/DMA.md",
+                "file": "C++/ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всё про процы и STM-ки/DMA.md",
+                "file": "C++/ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Всё про процы и STM-ки/DMA.md",
+                "file": "C++/ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всё про процы и STM-ки/DMA.md"
+                "file": "C++/ООП.md"
               }
             }
           }
@@ -197,11 +197,11 @@
   },
   "active": "4d7f2ec85bc178df",
   "lastOpenFiles": [
+    "Всё про процы и STM-ки/DMA.md",
+    "C++/ООП.md",
     "cash/Pasted image 20240711162658.png",
     "Всё про процы и STM-ки/Прерывания и события.md",
-    "Всё про процы и STM-ки/DMA.md",
     "Всё про процы и STM-ки/NVIC.md",
-    "C++/Untitled.md",
     "C++",
     "wirehark/wireshark tz1.md",
     "Всё про процы и STM-ки/HAL/HAL.md",
@@ -233,7 +233,6 @@
     "Doxygen.md",
     "Всё про процы и STM-ки",
     "cash/Pasted image 20240709180555.png",
-    "cash/Pasted image 20240710090938.png",
     "Быстрый старт с STM32CubeMx создание проекта под Keli.md"
   ]
 }
