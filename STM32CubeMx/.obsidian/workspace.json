@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "508d72ac9df2064d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b24a374886c06ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b422f746e04499c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/STM32 стек и куча.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35104df638d158c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/Прерывания и события.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7f2ec85bc178df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/DMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ec4f2f0e030ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/Прерывания и события.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f16bfc79e2ec86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/CMSIS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6700052a344dd436",
+    "type": "split",
+    "children": [
+      {
+        "id": "f224874a83a2b503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc133c9d6f69ebcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b30ce0ceb5ed629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e26afcc8b71a453",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "b2bcb2167386c4b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c01f3b0d20d103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a14a9e5ea46ccf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Всё про процы и STM-ки/DMA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1015415ef1ac7fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Всё про процы и STM-ки/DMA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cf7341272683497",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5da6fb3a0b30130d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Всё про процы и STM-ки/DMA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d7f2ec85bc178df",
+  "lastOpenFiles": [
+    "cash/Pasted image 20240711162658.png",
+    "Всё про процы и STM-ки/Прерывания и события.md",
+    "Всё про процы и STM-ки/DMA.md",
+    "Всё про процы и STM-ки/NVIC.md",
+    "C++/Untitled.md",
+    "C++",
+    "wirehark/wireshark tz1.md",
+    "Всё про процы и STM-ки/HAL/HAL.md",
+    "wirehark",
+    "Всё про процы и STM-ки/LL/LL.md",
+    "Всё про процы и STM-ки/CMSIS.md",
+    "Всё про процы и STM-ки/ARM.md",
+    "Всё про процы и STM-ки/HAL/HAL NVIC.md",
+    "Всё про процы и STM-ки/STM32 EXTI.md",
+    "Всё про процы и STM-ки/HAL/HAL Clock, GPIOs.md",
+    "Всё про процы и STM-ки/NVIC IRQ.md",
+    "cash/Pasted image 20240710145358.png",
+    "Всё про процы и STM-ки/LL",
+    "Всё про процы и STM-ки/HAL/HAL PWR.md",
+    "cash/Pasted image 20240710144200.png",
+    "Всё про процы и STM-ки/HAL",
+    "Всё про процы и STM-ки/STM32 стек и куча.md",
+    "Всё про процы и STM-ки/RISC и CISC.md",
+    "Всё про процы и STM-ки/1.md",
+    "1.md",
+    "Всё про процы и STM-ки/STM32.md",
+    "cash/Pasted image 20240710122139.png",
+    "cash/Pasted image 20240710122127.png",
+    "cash/Pasted image 20240710120213.png",
+    "cash/Pasted image 20240710115115.png",
+    "cash/Pasted image 20240710111013.png",
+    "cash/Pasted image 20240710113201.png",
+    "cash",
+    "Doxygen.md",
+    "Всё про процы и STM-ки",
+    "cash/Pasted image 20240709180555.png",
+    "cash/Pasted image 20240710090938.png",
+    "Быстрый старт с STM32CubeMx создание проекта под Keli.md"
+  ]
+}
