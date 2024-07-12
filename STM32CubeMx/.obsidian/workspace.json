@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "63bc665014e8a8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4ec4f2f0e030ac3",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/ООП.md",
+                "file": "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/ООП.md",
+                "file": "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/ООП.md"
+                "file": "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md"
               }
             }
           }
@@ -195,10 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d7f2ec85bc178df",
+  "active": "63bc665014e8a8b3",
   "lastOpenFiles": [
-    "Всё про процы и STM-ки/DMA.md",
+    "cash/Pasted image 20240712144006.png",
+    "cash/Pasted image 20240712132718.png",
+    "cash/Pasted image 20240712125014.png",
+    "cash/Pasted image 20240712124913.png",
+    "cash/Pasted image 20240712124759.png",
+    "cash/Pasted image 20240712124754.png",
+    "cash/Pasted image 20240712100017.png",
     "C++/ООП.md",
+    "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md",
+    "Всё про процы и STM-ки/Проект",
+    "Всё про процы и STM-ки/DMA.md",
     "cash/Pasted image 20240711162658.png",
     "Всё про процы и STM-ки/Прерывания и события.md",
     "Всё про процы и STM-ки/NVIC.md",
@@ -224,15 +245,9 @@
     "1.md",
     "Всё про процы и STM-ки/STM32.md",
     "cash/Pasted image 20240710122139.png",
-    "cash/Pasted image 20240710122127.png",
-    "cash/Pasted image 20240710120213.png",
-    "cash/Pasted image 20240710115115.png",
-    "cash/Pasted image 20240710111013.png",
-    "cash/Pasted image 20240710113201.png",
     "cash",
     "Doxygen.md",
     "Всё про процы и STM-ки",
-    "cash/Pasted image 20240709180555.png",
     "Быстрый старт с STM32CubeMx создание проекта под Keli.md"
   ]
 }
