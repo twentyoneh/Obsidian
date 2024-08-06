@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44f62c69c7c2a396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Всё про процы и STM-ки/Проект/UART плакат.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "982f250dc2a44925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/ООП.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8597f7b682b1fbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционные системы/Процессы и потоки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89204ba1cbf2b03a",
+            "id": "cf93ceef0c5f784a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f6131106c2f9a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нееронка/Pyhon и что нужно будет.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всё про процы и STM-ки/Проект/UART плакат.md",
+                "file": "Нееронка/Pyhon и что нужно будет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Всё про процы и STM-ки/Проект/UART плакат.md",
+                "file": "Нееронка/Pyhon и что нужно будет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всё про процы и STM-ки/Проект/UART плакат.md"
+                "file": "Нееронка/Pyhon и что нужно будет.md"
               }
             }
           }
@@ -182,18 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44f62c69c7c2a396",
+  "active": "0f6131106c2f9a15",
   "lastOpenFiles": [
     "Нееронка/Общие сведения.md",
+    "Нееронка/Pyhon и что нужно будет.md",
+    "Всё про процы и STM-ки/lwip/lwip.md",
+    "Всё про процы и STM-ки/Проект/SPI плакат.md",
+    "Всё про процы и STM-ки/Проект/I2C.md",
+    "C++/ООП.md",
     "Операционные системы/Процессы и потоки.md",
+    "Всё про процы и STM-ки/lwip",
+    "Всё про процы и STM-ки/Проект/UART плакат.md",
     "Нееронка",
     "cash/Pasted image 20240730152254.png",
     "cash/Pasted image 20240730152121.png",
-    "C++/ООП.md",
     "Операционные системы",
-    "Всё про процы и STM-ки/Проект/SPI плакат.md",
     "cash/Pasted image 20240730145905.png",
-    "Всё про процы и STM-ки/Проект/UART плакат.md",
     "cash/Pasted image 20240730115036.png",
     "cash/Pasted image 20240730114954.png",
     "Всё про процы и STM-ки/Проект/SPI.md",
@@ -224,10 +205,7 @@
     "Всё про процы и STM-ки/HAL",
     "Всё про процы и STM-ки/RISC и CISC.md",
     "Всё про процы и STM-ки/1.md",
-    "1.md",
-    "Всё про процы и STM-ки/STM32.md",
     "cash",
-    "Doxygen.md",
     "Всё про процы и STM-ки"
   ]
 }
