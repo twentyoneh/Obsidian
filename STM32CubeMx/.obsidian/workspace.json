@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f0dc4dd772a2731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/ethernet/1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "120f2da0e1f91c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Нееронка/Pyhon и что нужно будет.md",
+                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Нееронка/Pyhon и что нужно будет.md",
+                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Нееронка/Pyhon и что нужно будет.md"
+                "file": "Всё про процы и STM-ки/lwip/eth lwip.md"
               }
             }
           }
@@ -159,10 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6131106c2f9a15",
+  "active": "120f2da0e1f91c67",
   "lastOpenFiles": [
-    "Нееронка/Общие сведения.md",
     "Нееронка/Pyhon и что нужно будет.md",
+    "Нееронка/Общие сведения.md",
+    "Всё про процы и STM-ки/lwip/eth lwip.md",
+    "Всё про процы и STM-ки/RCC.md",
+    "Всё про процы и STM-ки/ethernet/1.md",
+    "cash/Pasted image 20240812104456.png",
+    "cash/Pasted image 20240807130516.png",
+    "cash/Pasted image 20240807120632.png",
+    "cash/Pasted image 20240807095319.png",
+    "Всё про процы и STM-ки/ethernet",
     "Всё про процы и STM-ки/lwip/lwip.md",
     "Всё про процы и STM-ки/Проект/SPI плакат.md",
     "Всё про процы и STM-ки/Проект/I2C.md",
@@ -182,10 +214,6 @@
     "Всё про процы и STM-ки/Прерывания и события.md",
     "Всё про процы и STM-ки/STM32 стек и куча.md",
     "cash/Pasted image 20240730111248.png",
-    "cash/Pasted image 20240730110646.png",
-    "cash/Pasted image 20240730110629.png",
-    "cash/Pasted image 20240730110620.png",
-    "cash/Pasted image 20240730110513.png",
     "Всё про процы и STM-ки/Проект",
     "Всё про процы и STM-ки/DMA.md",
     "Всё про процы и STM-ки/NVIC.md",
@@ -199,13 +227,8 @@
     "Всё про процы и STM-ки/HAL/HAL NVIC.md",
     "Всё про процы и STM-ки/STM32 EXTI.md",
     "Всё про процы и STM-ки/HAL/HAL Clock, GPIOs.md",
-    "Всё про процы и STM-ки/NVIC IRQ.md",
     "Всё про процы и STM-ки/LL",
-    "Всё про процы и STM-ки/HAL/HAL PWR.md",
     "Всё про процы и STM-ки/HAL",
-    "Всё про процы и STM-ки/RISC и CISC.md",
-    "Всё про процы и STM-ки/1.md",
-    "cash",
-    "Всё про процы и STM-ки"
+    "cash"
   ]
 }

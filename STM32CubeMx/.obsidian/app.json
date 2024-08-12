@@ -3,5 +3,10 @@
   "newFileFolderPath": "cash",
   "attachmentFolderPath": "cash",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 2,
+  "rightToLeft": false,
+  "showLineNumber": true,
+  "livePreview": true,
+  "strictLineBreaks": true
 }
