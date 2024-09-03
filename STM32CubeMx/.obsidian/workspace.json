@@ -49,14 +49,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
+                "file": "Всё про процы и STM-ки/lwip/lwip ping ethernet 1.11.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88b3c5d7b2bd4690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/MPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d13d19404b9b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08179d8e29fb4178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Нееронка/Общие сведения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d3e48087909c1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чистый код/Введение.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
+                "file": "Чистый код/Введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Всё про процы и STM-ки/lwip/eth lwip.md",
+                "file": "Чистый код/Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всё про процы и STM-ки/lwip/eth lwip.md"
+                "file": "Чистый код/Введение.md"
               }
             }
           }
@@ -183,19 +231,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120f2da0e1f91c67",
+  "active": "0d3e48087909c1c0",
   "lastOpenFiles": [
-    "Нееронка/Pyhon и что нужно будет.md",
     "Нееронка/Общие сведения.md",
+    "Чистый код/Введение.md",
+    "Чистый код",
+    "Нееронка/Pyhon и что нужно будет.md",
+    "cash/Pasted image 20240902174852.png",
+    "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
     "Всё про процы и STM-ки/lwip/eth lwip.md",
+    "Всё про процы и STM-ки/MPU.md",
+    "cash/Pasted image 20240821110119.png",
+    "cash/Pasted image 20240820122111.png",
+    "cash/Pasted image 20240819095153.png",
+    "Всё про процы и STM-ки/lwip/lwip ping ethernet 1.11.2.md",
+    "cash/Pasted image 20240814132900.png",
+    "cash/Pasted image 20240814132512.png",
+    "cash/Pasted image 20240814132451.png",
+    "cash/Pasted image 20240814131843.png",
+    "cash/Pasted image 20240814131830.png",
+    "cash/Pasted image 20240814131048.png",
     "Всё про процы и STM-ки/RCC.md",
     "Всё про процы и STM-ки/ethernet/1.md",
-    "cash/Pasted image 20240812104456.png",
-    "cash/Pasted image 20240807130516.png",
-    "cash/Pasted image 20240807120632.png",
-    "cash/Pasted image 20240807095319.png",
     "Всё про процы и STM-ки/ethernet",
-    "Всё про процы и STM-ки/lwip/lwip.md",
     "Всё про процы и STM-ки/Проект/SPI плакат.md",
     "Всё про процы и STM-ки/Проект/I2C.md",
     "C++/ООП.md",
@@ -203,17 +261,11 @@
     "Всё про процы и STM-ки/lwip",
     "Всё про процы и STM-ки/Проект/UART плакат.md",
     "Нееронка",
-    "cash/Pasted image 20240730152254.png",
-    "cash/Pasted image 20240730152121.png",
     "Операционные системы",
-    "cash/Pasted image 20240730145905.png",
-    "cash/Pasted image 20240730115036.png",
-    "cash/Pasted image 20240730114954.png",
     "Всё про процы и STM-ки/Проект/SPI.md",
     "Всё про процы и STM-ки/Проект/USB TO TTL HW-597.md",
     "Всё про процы и STM-ки/Прерывания и события.md",
     "Всё про процы и STM-ки/STM32 стек и куча.md",
-    "cash/Pasted image 20240730111248.png",
     "Всё про процы и STM-ки/Проект",
     "Всё про процы и STM-ки/DMA.md",
     "Всё про процы и STM-ки/NVIC.md",
@@ -225,10 +277,7 @@
     "Всё про процы и STM-ки/CMSIS.md",
     "Всё про процы и STM-ки/ARM.md",
     "Всё про процы и STM-ки/HAL/HAL NVIC.md",
-    "Всё про процы и STM-ки/STM32 EXTI.md",
-    "Всё про процы и STM-ки/HAL/HAL Clock, GPIOs.md",
     "Всё про процы и STM-ки/LL",
-    "Всё про процы и STM-ки/HAL",
-    "cash"
+    "Всё про процы и STM-ки/HAL"
   ]
 }
