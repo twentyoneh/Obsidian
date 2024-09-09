@@ -73,9 +73,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
+                "file": "C++/AES-256-ECB.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "22fb539ab0a55e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Qt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b73f877a0253ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cash/Pasted image 20240909100843.png"
               }
             }
           },
@@ -101,6 +123,38 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c1819b8604569cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/ООП.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdc1e931c9d899e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Чистый код/Введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90648ccb8f77b56e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -170,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чистый код/Введение.md",
+                "file": "cash/Pasted image 20240909100843.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чистый код/Введение.md",
+                "file": "cash/Pasted image 20240909100843.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чистый код/Введение.md"
+                "file": "cash/Pasted image 20240909100843.png"
               }
             }
           }
@@ -231,14 +285,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3e48087909c1c0",
+  "active": "d3b73f877a0253ca",
   "lastOpenFiles": [
+    "C++/Qt.md",
+    "C++/ООП.md",
+    "C++/AES-256-ECB.md",
+    "cash/Pasted image 20240909100843.png",
+    "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
     "Нееронка/Общие сведения.md",
     "Чистый код/Введение.md",
+    "C++/митап.md",
+    "Чистый код/Изменения в Project_CAM_Tech.md",
     "Чистый код",
     "Нееронка/Pyhon и что нужно будет.md",
     "cash/Pasted image 20240902174852.png",
-    "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
     "Всё про процы и STM-ки/lwip/eth lwip.md",
     "Всё про процы и STM-ки/MPU.md",
     "cash/Pasted image 20240821110119.png",
@@ -250,13 +310,11 @@
     "cash/Pasted image 20240814132451.png",
     "cash/Pasted image 20240814131843.png",
     "cash/Pasted image 20240814131830.png",
-    "cash/Pasted image 20240814131048.png",
     "Всё про процы и STM-ки/RCC.md",
     "Всё про процы и STM-ки/ethernet/1.md",
     "Всё про процы и STM-ки/ethernet",
     "Всё про процы и STM-ки/Проект/SPI плакат.md",
     "Всё про процы и STM-ки/Проект/I2C.md",
-    "C++/ООП.md",
     "Операционные системы/Процессы и потоки.md",
     "Всё про процы и STM-ки/lwip",
     "Всё про процы и STM-ки/Проект/UART плакат.md",
@@ -273,10 +331,6 @@
     "wirehark/wireshark tz1.md",
     "Всё про процы и STM-ки/HAL/HAL.md",
     "wirehark",
-    "Всё про процы и STM-ки/LL/LL.md",
-    "Всё про процы и STM-ки/CMSIS.md",
-    "Всё про процы и STM-ки/ARM.md",
-    "Всё про процы и STM-ки/HAL/HAL NVIC.md",
     "Всё про процы и STM-ки/LL",
     "Всё про процы и STM-ки/HAL"
   ]
