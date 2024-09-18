@@ -95,9 +95,11 @@
             "id": "d3b73f877a0253ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cash/Pasted image 20240909100843.png"
+                "file": "Чистый код/Введение.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -136,29 +138,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fdc1e931c9d899e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чистый код/Введение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90648ccb8f77b56e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -224,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cash/Pasted image 20240909100843.png",
+                "file": "C++/ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cash/Pasted image 20240909100843.png",
+                "file": "C++/ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cash/Pasted image 20240909100843.png"
+                "file": "C++/ООП.md"
               }
             }
           }
@@ -285,15 +267,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3b73f877a0253ca",
+  "active": "c1819b8604569cdd",
   "lastOpenFiles": [
+    "README.md",
+    "Чистый код/Введение.md",
+    "Август.md",
+    "C++/AES-256-ECB.md",
+    "Операционные системы/Процессы и потоки.md",
+    "cash/Pasted image 20240909100843.png",
     "C++/Qt.md",
     "C++/ООП.md",
-    "C++/AES-256-ECB.md",
-    "cash/Pasted image 20240909100843.png",
     "Всё про процы и STM-ки/Ethernet, IP, UDP.md",
     "Нееронка/Общие сведения.md",
-    "Чистый код/Введение.md",
     "C++/митап.md",
     "Чистый код/Изменения в Project_CAM_Tech.md",
     "Чистый код",
@@ -315,7 +300,6 @@
     "Всё про процы и STM-ки/ethernet",
     "Всё про процы и STM-ки/Проект/SPI плакат.md",
     "Всё про процы и STM-ки/Проект/I2C.md",
-    "Операционные системы/Процессы и потоки.md",
     "Всё про процы и STM-ки/lwip",
     "Всё про процы и STM-ки/Проект/UART плакат.md",
     "Нееронка",
@@ -328,8 +312,6 @@
     "Всё про процы и STM-ки/DMA.md",
     "Всё про процы и STM-ки/NVIC.md",
     "C++",
-    "wirehark/wireshark tz1.md",
-    "Всё про процы и STM-ки/HAL/HAL.md",
     "wirehark",
     "Всё про процы и STM-ки/LL",
     "Всё про процы и STM-ки/HAL"
