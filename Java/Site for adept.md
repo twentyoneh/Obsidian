@@ -8,3 +8,53 @@
 - Вы можете использовать **HTML/CSS/JavaScript** для создания интерфейса. Для одностраничного приложения идеально подойдет фреймворк **React**, **Vue.js** или **Angular**.
 - Фронтенд будет обращаться к backend через **REST API**.
 
+|Слой|Что делает|Где в Spring|
+|---|---|---|
+|Контроллеры|Отвечают за входящие HTTP-запросы|`controller/`|
+|Сервисы|Бизнес-логика|`service/`|
+|Репозитории|Работа с базой данных|`repository/`|
+|Модели (Entity)|Отражение структуры таблиц в БД|`model/`|
+|DTO|Формат обмена данными с фронтом|`dto/`|
+|Конфигурация|Настройки Spring, бинов и т.д.|`config/` (если нужно)|
+
+1. Controller (обработка конечного http-запрос)
+2. Service (описание бизнес-логики)
+3. Repository (работа с базами данных)
+4. Model (представление таблиц БД в java - классы)
+5. DTO (передача данных между фронтом и бэком) //p.s. это буквально модель которую мы в случае чего передаём во фронт
+
+shop/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com.example.shop/
+│       │       ├── controller/
+│       │       │   ├── ProductController.java
+│       │       │   └── ContactController.java
+│       │       │
+│       │       ├── service/
+│       │       │   └── ProductService.java
+│       │       │
+│       │       ├── repository/
+│       │       │   └── ProductRepository.java
+│       │       │
+│       │       ├── model/
+│       │       │   └── Product.java
+│       │       │
+│       │       ├── dto/
+│       │       │   └── ProductDTO.java
+│       │       │
+│       │       └── ShopApplication.java
+│       │
+│       └── resources/
+│           ├── static/              # если фронт простой (HTML/JS/CSS)
+│           │   ├── index.html
+│           │   └── js/
+│           ├── templates/           # если Thymeleaf
+│           │   └── index.html
+│           ├── application.properties
+│           └── data.sql             # тестовые товары (если нужно)
+│
+├── pom.xml
+
+Надо посмотреть что такое докер компост 
