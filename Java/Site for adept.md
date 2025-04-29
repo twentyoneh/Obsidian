@@ -29,20 +29,21 @@ shop/
 │       ├── java/
 │       │   └── com.example.shop/
 │       │       ├── controller/
-│       │       │   ├── ProductController.java
-│       │       │   └── ContactController.java
+│       │       │   ├── ProductController.java // /product
+│       │       │   ├── ContactController.java // /contact
+│       │       │   └── MainController.java // / (index.html)
 │       │       │
 │       │       ├── service/
-│       │       │   └── ProductService.java
+│       │       │   └── ProductService.java //вся бизнес логика
 │       │       │
 │       │       ├── repository/
-│       │       │   └── ProductRepository.java
+│       │       │   └── ProductRepository.java // достаём данные их БД
 │       │       │
 │       │       ├── model/
-│       │       │   └── Product.java
+│       │       │   └── Product.java // само представление базы данных
 │       │       │
 │       │       ├── dto/
-│       │       │   └── ProductDTO.java
+│       │       │   └── ProductDTO.java // 
 │       │       │
 │       │       └── ShopApplication.java
 │       │
@@ -58,3 +59,15 @@ shop/
 ├── pom.xml
 
 Надо посмотреть что такое докер компост 
+
+- [ ] Надо сделать макет сайта
+- [ ] Описать модели(базы данных которые будут у меня )
+- [ ] надо посмотреть курс по фронту(хотябы чтобы понимать что там происходит https://www.youtube.com/watch?v=BVIffUyYlUk&pp=ygUHYW5ndWxhcg%3D%3D)
+Товары:
+
+| id              |     |
+| --------------- | --- |
+| name            |     |
+| description     |     |
+| photo(any size) |     |
+|                 |     |
