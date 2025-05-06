@@ -71,3 +71,6 @@ shop/
 | description     |     |
 | photo(any size) |     |
 |                 |     |
+![[Pasted image 20250430163815.png]]
+
+
