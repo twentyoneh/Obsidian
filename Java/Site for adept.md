@@ -30,8 +30,7 @@ shop/
 │       │   └── com.example.shop/
 │       │       ├── controller/
 │       │       │   ├── ProductController.java // /product
-│       │       │   ├── ContactController.java // /contact
-│       │       │   └── MainController.java // / (index.html)
+│       │       │   └── ContactController.java // /contact
 │       │       │
 │       │       ├── service/
 │       │       │   └── ProductService.java //вся бизнес логика
@@ -62,7 +61,6 @@ shop/
 
 - [ ] Надо сделать макет сайта
 - [ ] Описать модели(базы данных которые будут у меня )
-- [ ] надо посмотреть курс по фронту(хотябы чтобы понимать что там происходит https://www.youtube.com/watch?v=BVIffUyYlUk&pp=ygUHYW5ndWxhcg%3D%3D)
 Товары:
 
 | id              |     |
@@ -71,6 +69,3 @@ shop/
 | description     |     |
 | photo(any size) |     |
 |                 |     |
-![[Pasted image 20250430163815.png]]
-
-
